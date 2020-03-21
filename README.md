@@ -2,6 +2,11 @@
 
 ![Growth of a bankroll over successive Kelly bets](kelly.svg)
 
+- [Aaron Brown](https://www.eraider.com/articles.php)
+    - [When Harry Met Kelly](https://storage.googleapis.com/wzukusers/user-28782334/documents/595d025ef24eeXOj3NY2/When%20Harry%20Met%20Kelly%20201103.pdf)
+    - [Kelly Myths and Heros](https://storage.googleapis.com/wzukusers/user-28782334/documents/595d0e1ab41caDHEgQHY/Kelly%20Myths%20and%20Heros.pdf)
+- [Wikipedia](https://en.wikipedia.org/wiki/Kelly_criterion)
+
 ```py
 def kelly(decimalOdds, probability):
   """Kelly criterion
